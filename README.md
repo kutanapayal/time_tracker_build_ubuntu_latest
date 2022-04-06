@@ -1,5 +1,5 @@
 1.. Download the folder and save it to local with unzipped
-2.. Open the dist/time_tracker_v_4 (First the app file which have the logo if it is not able to open or taking too much time you may go for time_tracker_v_4(terminal logo))
+2.. Open the dist/time_tracker (First the app file which have the logo if it is not able to open or taking too much time you may go for time_tracker(terminal logo))
 3.. The app will start executing
 4.. Firstly you need to sign in with google. And then you are redirected to main timer window.	
 5.. Now to start the timer. Click on the First Start button beside the Work-Development.
